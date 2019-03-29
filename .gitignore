@@ -1,0 +1,10 @@
+ThomasJefferson/
+__pycache__/
+bin/
+data/
+lib/
+lib64/
+lib64
+pyvenv.cfg
+runs/
+share/
