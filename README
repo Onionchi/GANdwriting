@@ -1,0 +1,9 @@
+The goal of this project is to emulate the natural handwriting of a person.
+
+Currently the model trains on the MNIST database and is able to produce quality
+looking numbers.
+
+In the future I would like to automatically pull images from the 
+Library of Congress of the writings of Thomas Jefferson, as there is a large
+enough sample set from a single person that good quality training could be
+performed. 
